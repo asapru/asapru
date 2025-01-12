@@ -11,6 +11,12 @@
 - Data Visualization : Looker Studio, Tableau, Power BI
 - Tools: PyCharm, Jira, Github, MS Excel
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
+
+## Learning
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes)](https://skillicons.dev)
+
 <!--
 **asapru/asapru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
