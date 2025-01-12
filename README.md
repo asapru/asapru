@@ -15,8 +15,14 @@
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,sklearn,)](https://skillicons.dev)
 
-## Learning
+## Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes)](https://skillicons.dev)
+<!--- Cloud Platforms: AWS, Azure
+- Machine Learning Frameworks: PyTorch, TensorFlow
+- Data Engineering: Apache Spark, Kafka
+- Visualization Tools: Power BI, Tableau
+- Programming Languages: Rust, Julia
+-->
 
 <!--
 **asapru/asapru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
