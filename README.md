@@ -4,7 +4,7 @@
 ## You can follow me here ##
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arunsapru)
 
-## Skills & Techologies
+## Skills & Technologies
 - Programming Languages : Python, SQL, R
 - Frameworks, Packages & Cloud Tools : pandas,numpy, scikit-learn, seaborn,matplotlib, Google Cloud Platform
 - Machine Learning : Regression, Classification, Clustering, Time Series Analysis
