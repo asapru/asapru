@@ -2,7 +2,7 @@
 ### I am a data science and analytics professional with expertise in machine learning, predictive modeling, data analytics, business intelligence, and visualization.
 
 ## You can follow me here ##
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arunsapru)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunsapru/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arun07sapru@gmail.com)
 
 ## Skills & Technologies
