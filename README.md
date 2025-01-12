@@ -3,6 +3,7 @@
 
 ## You can follow me here ##
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arunsapru)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.arun07sapru@gmail.com)
 
 ## Skills & Technologies
 - Programming Languages : Python, SQL, R
@@ -12,7 +13,7 @@
 - Tools: PyCharm, Jira, Github, MS Excel
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,sklearn,)](https://skillicons.dev)
 
 ## Learning
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes)](https://skillicons.dev)
