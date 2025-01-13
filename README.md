@@ -12,6 +12,10 @@
 - Data Visualization : Looker Studio, Tableau, Power BI
 - Tools: PyCharm, Jira, Github, MS Excel
 
+## Certifications
+- [Supervised Machine Learning: Regression and Classification](https://coursera.org/share/8a4adbb9c571dc80aa3c68fd7a9a6472)
+- [Advanced Learning Algorithms](https://coursera.org/share/00f2aecc50429ca1594ed2d4352c8103)
+
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,sklearn,)](https://skillicons.dev)
 
