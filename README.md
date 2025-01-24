@@ -17,10 +17,10 @@
 - [Advanced Learning Algorithms](https://coursera.org/share/00f2aecc50429ca1594ed2d4352c8103)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,sklearn,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,sklearn,git)](https://skillicons.dev)
 
 ## Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp,docker,)](https://skillicons.dev)
 <!--- Cloud Platforms: AWS, Azure
 - Machine Learning Frameworks: PyTorch, TensorFlow
 - Data Engineering: Apache Spark, Kafka
